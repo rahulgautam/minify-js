@@ -11,9 +11,9 @@ NOTE:
  - Folder/Directory path should be absolute path
 
 
- It will recursivly traverse all subfolders and js files in <source_folder_for_js_files>
- And will create the same sub-floder structure in <destination_folder_for_js_file> if not present
- while minifing js files.
+ >It will recursively traverse all subfolders and js files in `source_folder_for_js_files`
+ >And will create the same sub-folder structure in `destination_folder_for_js_file` if not present
+ >while minifing js files.
 
 
 TODO:
@@ -21,4 +21,4 @@ TODO:
  - Add python script that uses google closure rest-api.
 
 
-> The [Google](www.google.com) Closure Compiler is a JavaScript optimizer that rewrites JavaScript code to make it faster and more compact.
+> The [Google](http://www.google.com) Closure Compiler is a JavaScript optimizer that rewrites JavaScript code to make it faster and more compact.
