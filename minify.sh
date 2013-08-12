@@ -12,7 +12,7 @@ exit_script(){
 }
 
 check_dir(){
-    # Check if <source_folder_for_js_files> <destination_folder_for_js_file>
+    # Check if <source_folder_for_js_files>, <destination_folder_for_js_file>
     # and closure_compiler_location present at location or not.
     if [ ! -f $closure_compiler_location ];
         then
